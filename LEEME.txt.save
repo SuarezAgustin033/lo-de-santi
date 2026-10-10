@@ -1,0 +1,52 @@
+LO DE SANTI — APLICACIÓN WEB Y ASISTENTE DE REPOSICIÓN
+
+Para iniciar con base SQLite en esta computadora
+1. Necesitás Python 3 instalado.
+2. Si ya usabas la versión que abría directo como archivo, descargá allí una copia
+   de seguridad antes de continuar. Luego podrás restaurarla en el servidor.
+3. Abrí una terminal en esta carpeta y ejecutá `python3 server.py` (Linux/Mac) o
+   `py -3 server.py` (Windows). También podés usar iniciar.sh o iniciar.bat.
+4. Abrí http://127.0.0.1:8000 en el navegador. Dejá la terminal abierta mientras
+   usás la aplicación.
+5. En “Restaurar copia”, importá el archivo anterior si lo tenés. Si no, el catálogo
+   inicial se cargará automáticamente.
+6. La primera vez, el catálogo de products.js se guarda en data/lo_de_santi.sqlite3.
+   El servidor usa esa base y conserva los cambios entre sesiones.
+
+Asistente IA de reposición
+1. Configurá OPENAI_API_KEY como variable de entorno en la misma terminal antes de
+   iniciar el servidor. Nunca la escribas en index.html ni en un archivo público.
+2. En la aplicación, abrí “Asistente IA” y pulsá “Analizar productos para reponer”.
+3. En cada análisis se envían a OpenAI los nombres, categorías y existencias actuales
+   y mínimas. No se envían precios, historial de ventas ni datos de clientes. El agente
+   solo consulta y recomienda; no puede editar el inventario ni realizar compras.
+
+Linux/Mac, en una terminal:
+`export OPENAI_API_KEY='tu-clave'`
+`python3 server.py`
+
+Windows PowerShell:
+`$env:OPENAI_API_KEY = 'tu-clave'`
+`py -3 server.py`
+
+Uso de la aplicación
+- En Productos, ajustá precios y mínimos. “Categorías” permite agregar o eliminar;
+  al borrar una categoría con productos, se pide confirmación y se reasignan.
+- En Entradas de stock, cargá el conteo inicial.
+- En Ventas, buscá productos, indicá cantidades y agregalos al carrito. Al confirmar,
+  se descuenta el stock y se genera un comprobante interno imprimible.
+- Descargá una copia de seguridad regularmente.
+
+El catálogo inicial se extrajo de la hoja de precios que compartiste. Las cantidades
+quedan sin cargar porque el archivo no tenía existencias. Los cambios se guardan
+en SQLite en esta computadora cuando abrís la aplicación por el servidor. Al abrir
+index.html directamente, la base y el asistente no están disponibles; la aplicación
+queda en modo de navegador.
+
+La hoja de cálculo original no se modifica. El comprobante de venta es interno,
+imprimible y no reemplaza una factura electrónica fiscal. Esta versión no se conecta
+a sistemas fiscales ni a medios de pago. El servidor escucha solo en esta computadora
+por defecto; todavía no está publicado en Internet ni permite acceso desde otros
+dispositivos. Para eso hace falta desplegarlo con HTTPS, autenticación y una base
+remota protegida.
+

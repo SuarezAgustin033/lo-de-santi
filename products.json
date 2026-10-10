@@ -1,0 +1,2826 @@
+[
+  {
+    "id": "1",
+    "name": "Bizcocho 9 de oro",
+    "category": "Galletas",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "2",
+    "name": "Criollas X3",
+    "category": "Galletas",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "3",
+    "name": "Desfile Lia",
+    "category": "Galletas",
+    "price": 2800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "4",
+    "name": "Don Satur",
+    "category": "Galletas",
+    "price": 1600.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "5",
+    "name": "Fauna",
+    "category": "Galletas",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "6",
+    "name": "Granix Salvado",
+    "category": "Galletas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "7",
+    "name": "Granix Sin Sal",
+    "category": "Galletas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "8",
+    "name": "Lincoln",
+    "category": "Galletas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "9",
+    "name": "Hojaldre Ronda",
+    "category": "Galletas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "10",
+    "name": "Magdalenas",
+    "category": "Galletas",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "11",
+    "name": "Mini oreo",
+    "category": "Galletas",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "12",
+    "name": "Oblita grande",
+    "category": "Galletas",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "13",
+    "name": "Olblita chica",
+    "category": "Galletas",
+    "price": 500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "14",
+    "name": "Oreo",
+    "category": "Galletas",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "15",
+    "name": "Palmeritas",
+    "category": "Galletas",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "16",
+    "name": "Palmeritas Tia Maruca",
+    "category": "Galletas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "17",
+    "name": "Pepitos",
+    "category": "Galletas",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "18",
+    "name": "Polvorita chica",
+    "category": "Galletas",
+    "price": 800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "19",
+    "name": "Polvorita",
+    "category": "Galletas",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "20",
+    "name": "Providencia X3",
+    "category": "Galletas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "21",
+    "name": "Saladix Caja",
+    "category": "Galletas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "22",
+    "name": "Sin sal Mauri X3",
+    "category": "Galletas",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "23",
+    "name": "Surtido Bagley",
+    "category": "Galletas",
+    "price": 4500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "24",
+    "name": "surtido Diversion",
+    "category": "Galletas",
+    "price": 3500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "25",
+    "name": "Terrabusi Variedad",
+    "category": "Galletas",
+    "price": 4500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "26",
+    "name": "Tia Maruca",
+    "category": "Galletas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "27",
+    "name": "Traviata X3",
+    "category": "Galletas",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "28",
+    "name": "Trio (TODAS)",
+    "category": "Galletas",
+    "price": 1300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "29",
+    "name": "Vainillas",
+    "category": "Galletas",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "30",
+    "name": "Vocacion",
+    "category": "Galletas",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "31",
+    "name": "Recreo Surtidas",
+    "category": "Galletas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "32",
+    "name": "Alfajores Triple Arcor",
+    "category": "Golosinas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "33",
+    "name": "Alfajor Rasta",
+    "category": "Golosinas",
+    "price": 1800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "34",
+    "name": "Bon o bon redondito",
+    "category": "Golosinas",
+    "price": 600.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "35",
+    "name": "Celofan misky",
+    "category": "Golosinas",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "36",
+    "name": "Cereal mix",
+    "category": "Golosinas",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "37",
+    "name": "Chocolate Misky familiar",
+    "category": "Golosinas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "38",
+    "name": "Chocolate taza misky",
+    "category": "Golosinas",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "39",
+    "name": "Fantoche Elixir",
+    "category": "Golosinas",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "40",
+    "name": "Dos corazones",
+    "category": "Golosinas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "41",
+    "name": "Fantoche",
+    "category": "Golosinas",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "42",
+    "name": "Garrapiñada",
+    "category": "Golosinas",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "43",
+    "name": "Guaymallen simple",
+    "category": "Golosinas",
+    "price": 500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "44",
+    "name": "Hamlet",
+    "category": "Golosinas",
+    "price": 1300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "45",
+    "name": "Hamlet bon o bon",
+    "category": "Golosinas",
+    "price": 600.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "46",
+    "name": "Hamlet on",
+    "category": "Golosinas",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "47",
+    "name": "Huevo Kinder",
+    "category": "Golosinas",
+    "price": 3500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "48",
+    "name": "Kinder Bueno",
+    "category": "Golosinas",
+    "price": 5000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "49",
+    "name": "Mantecol",
+    "category": "Golosinas",
+    "price": 1800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "50",
+    "name": "Menthoplus",
+    "category": "Golosinas",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "51",
+    "name": "Nugaton",
+    "category": "Golosinas",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "52",
+    "name": "Rhodesia",
+    "category": "Golosinas",
+    "price": 1300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "53",
+    "name": "Rocklet",
+    "category": "Golosinas",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "54",
+    "name": "Sapitos",
+    "category": "Golosinas",
+    "price": 500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "55",
+    "name": "Terrabusi alfajor",
+    "category": "Golosinas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "56",
+    "name": "Tita",
+    "category": "Golosinas",
+    "price": 1300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "57",
+    "name": "Topline",
+    "category": "Golosinas",
+    "price": 500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "58",
+    "name": "Topline7",
+    "category": "Golosinas",
+    "price": 1300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "59",
+    "name": "Turron navidad chico",
+    "category": "Golosinas",
+    "price": 1300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "60",
+    "name": "Turron de mani",
+    "category": "Golosinas",
+    "price": 300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "61",
+    "name": "Turron navidad grande",
+    "category": "Golosinas",
+    "price": 1800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "62",
+    "name": "Chocolate bonafide 90gr",
+    "category": "Golosinas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "63",
+    "name": "Goma de honda",
+    "category": "Golosinas",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "64",
+    "name": "Alimento para perro",
+    "category": "Golosinas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "65",
+    "name": "Alimento gato",
+    "category": "Golosinas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "66",
+    "name": "Acondicionador Sedal",
+    "category": "Limpieza e Higiene",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "67",
+    "name": "Acondicionador Pantene",
+    "category": "Limpieza e Higiene",
+    "price": 300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "68",
+    "name": "Acondicionador Suave",
+    "category": "Limpieza e Higiene",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "69",
+    "name": "Afeitadora Minora",
+    "category": "Limpieza e Higiene",
+    "price": 1300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "70",
+    "name": "Afeitadora Presto B",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "71",
+    "name": "Sol Mayor rollo cocina",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "72",
+    "name": "Alcohol etilico Frau",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "73",
+    "name": "Algodón",
+    "category": "Limpieza e Higiene",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "74",
+    "name": "Sol Mayor papel higinieco",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "75",
+    "name": "Campanita",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "76",
+    "name": "Cigüeña",
+    "category": "Limpieza e Higiene",
+    "price": 500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "77",
+    "name": "Consorcio",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "78",
+    "name": "Dentrifico Colgate",
+    "category": "Limpieza e Higiene",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "79",
+    "name": "Desodorante Odorono",
+    "category": "Limpieza e Higiene",
+    "price": 3500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "80",
+    "name": "Cif crema",
+    "category": "Limpieza e Higiene",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "81",
+    "name": "Detergente Cif chico",
+    "category": "Limpieza e Higiene",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "82",
+    "name": "Detergente Gigante",
+    "category": "Limpieza e Higiene",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "83",
+    "name": "Detergente Sedile",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "84",
+    "name": "Espiral Raid X2",
+    "category": "Limpieza e Higiene",
+    "price": 700.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "85",
+    "name": "Espiral X5",
+    "category": "Limpieza e Higiene",
+    "price": 500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "86",
+    "name": "Esponja de acero",
+    "category": "Limpieza e Higiene",
+    "price": 700.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "87",
+    "name": "Esponja fibra",
+    "category": "Limpieza e Higiene",
+    "price": 700.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "88",
+    "name": "Felpita",
+    "category": "Limpieza e Higiene",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "89",
+    "name": "Focos Sol de Noche",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "90",
+    "name": "Fosforos",
+    "category": "Limpieza e Higiene",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "91",
+    "name": "Goma de piso",
+    "category": "Limpieza e Higiene",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "92",
+    "name": "Guantes",
+    "category": "Limpieza e Higiene",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "93",
+    "name": "Insecticida X5",
+    "category": "Limpieza e Higiene",
+    "price": 5500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "94",
+    "name": "Jabon en pan Argentino",
+    "category": "Limpieza e Higiene",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "95",
+    "name": "Jabon en polvo Ala",
+    "category": "Limpieza e Higiene",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "96",
+    "name": "Jabon en polvo Zorro",
+    "category": "Limpieza e Higiene",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "97",
+    "name": "Protector calipso",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "98",
+    "name": "Jabon tocador cupido",
+    "category": "Limpieza e Higiene",
+    "price": 800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "99",
+    "name": "Jabon tocador lux",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "100",
+    "name": "Jabon tocador Plusbelle",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "101",
+    "name": "Jabon tocador Rexona",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "102",
+    "name": "Ladysoft",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "103",
+    "name": "Lavandina Ayudin",
+    "category": "Limpieza e Higiene",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "104",
+    "name": "Lavandina Sedile",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "105",
+    "name": "X5 Desinfectante",
+    "category": "Limpieza e Higiene",
+    "price": 4500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "106",
+    "name": "Pañal paquete X8",
+    "category": "Limpieza e Higiene",
+    "price": 3500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "107",
+    "name": "Pañal suelto",
+    "category": "Limpieza e Higiene",
+    "price": 500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "108",
+    "name": "Paño amarillo",
+    "category": "Limpieza e Higiene",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "109",
+    "name": "Pañuelos",
+    "category": "Limpieza e Higiene",
+    "price": 500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "110",
+    "name": "Perfume piso Jardin",
+    "category": "Limpieza e Higiene",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "111",
+    "name": "Toallitas humedas",
+    "category": "Limpieza e Higiene",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "112",
+    "name": "Perfume piso Sedile",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "113",
+    "name": "Raid pastillas C/U",
+    "category": "Limpieza e Higiene",
+    "price": 600.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "114",
+    "name": "Broches",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "115",
+    "name": "Escobillon",
+    "category": "Limpieza e Higiene",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "116",
+    "name": "Sedal Shampoo",
+    "category": "Limpieza e Higiene",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "117",
+    "name": "Sopapa",
+    "category": "Limpieza e Higiene",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "118",
+    "name": "Shampoo Sedal sachet",
+    "category": "Limpieza e Higiene",
+    "price": 300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "119",
+    "name": "Shampoo Suave",
+    "category": "Limpieza e Higiene",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "120",
+    "name": "Suavizante Borita",
+    "category": "Limpieza e Higiene",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "121",
+    "name": "Talco",
+    "category": "Limpieza e Higiene",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "122",
+    "name": "Trapo de piso",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "123",
+    "name": "Velas cortas",
+    "category": "Limpieza e Higiene",
+    "price": 700.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "124",
+    "name": "Virulana",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "125",
+    "name": "SUELTOS",
+    "category": "Limpieza e Higiene",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "126",
+    "name": "Detergente x lt",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "127",
+    "name": "Jabon liquido",
+    "category": "Limpieza e Higiene",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "128",
+    "name": "Jabon liquido X3",
+    "category": "Limpieza e Higiene",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "129",
+    "name": "Lavandina",
+    "category": "Limpieza e Higiene",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "130",
+    "name": "Desinfectante",
+    "category": "Limpieza e Higiene",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "131",
+    "name": "Chocolatada",
+    "category": "Lacteos",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "132",
+    "name": "Chocolatada chica",
+    "category": "Lacteos",
+    "price": 800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "133",
+    "name": "Ilolay",
+    "category": "Lacteos",
+    "price": 2800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "134",
+    "name": "Silvia Sachet litro",
+    "category": "Lacteos",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "135",
+    "name": "Leche sachet",
+    "category": "Lacteos",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "136",
+    "name": "Manteca",
+    "category": "Lacteos",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "137",
+    "name": "Untable",
+    "category": "Lacteos",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "138",
+    "name": "Ravioles",
+    "category": "Lacteos",
+    "price": 3500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "139",
+    "name": "Yogurt Litro Manfrey",
+    "category": "Lacteos",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "140",
+    "name": "Yogurt Vaso",
+    "category": "Lacteos",
+    "price": 900.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "141",
+    "name": "Pascualina",
+    "category": "Lacteos",
+    "price": 2800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "142",
+    "name": "Tapa de empanada",
+    "category": "Lacteos",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "143",
+    "name": "Flan",
+    "category": "Lacteos",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "144",
+    "name": "Manteca tonadita 200gr",
+    "category": "Lacteos",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "145",
+    "name": "Manteca tonadita 100gr",
+    "category": "Lacteos",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "146",
+    "name": "Aderezos",
+    "category": "Lacteos",
+    "price": 0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "147",
+    "name": "Ketchup Danica",
+    "category": "Lacteos",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "148",
+    "name": "Ketchup Hellmans 60gr",
+    "category": "Lacteos",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "149",
+    "name": "Mayonesa Fiesta",
+    "category": "Lacteos",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "150",
+    "name": "Mayonesa Fiesta 250gr",
+    "category": "Lacteos",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "151",
+    "name": "Mayonesa Hellamns 250g",
+    "category": "Lacteos",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "152",
+    "name": "Mayonesa Hellmans 120g",
+    "category": "Lacteos",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "153",
+    "name": "Mayonesa Hellmans 500g",
+    "category": "Lacteos",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "154",
+    "name": "Mayonesa Natura 120gr",
+    "category": "Lacteos",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "155",
+    "name": "Mayonesa Natura 250gr",
+    "category": "Lacteos",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "156",
+    "name": "Sabora Danica",
+    "category": "Lacteos",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "157",
+    "name": "Sabora Natura 250gr",
+    "category": "Lacteos",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "158",
+    "name": "Savora 60gr",
+    "category": "Lacteos",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "159",
+    "name": "Mayonesa Natura 500gr",
+    "category": "Lacteos",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "160",
+    "name": "Ketchup Natura 250gr",
+    "category": "Lacteos",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "161",
+    "name": "Salsa golf Natura 250gr",
+    "category": "Lacteos",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "162",
+    "name": "Salsa pizza lista",
+    "category": "Lacteos",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "163",
+    "name": "Dulces y Mermeladas",
+    "category": "Lacteos",
+    "price": 0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "164",
+    "name": "Dulce de leche Ilolay 200g",
+    "category": "Lacteos",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "165",
+    "name": "Dulce de leche Manfrey 400g",
+    "category": "Lacteos",
+    "price": 3500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "166",
+    "name": "Mermelada Dulcor",
+    "category": "Lacteos",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "167",
+    "name": "Escencia vainilla",
+    "category": "Lacteos",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "168",
+    "name": "Amanda 500g",
+    "category": "Yerbas",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "169",
+    "name": "Broche de Oro 500g",
+    "category": "Yerbas",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "170",
+    "name": "CBSE",
+    "category": "Yerbas",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "171",
+    "name": "Hierbital",
+    "category": "Yerbas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "172",
+    "name": "Rosamonte",
+    "category": "Yerbas",
+    "price": 3500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "173",
+    "name": "Playadito",
+    "category": "Yerbas",
+    "price": 3500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "174",
+    "name": "Verdeflor",
+    "category": "Yerbas",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "175",
+    "name": "Infusiones y molidos",
+    "category": "Yerbas",
+    "price": 0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "176",
+    "name": "Café La Virginia 125g",
+    "category": "Yerbas",
+    "price": 4500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "177",
+    "name": "Café sauqito",
+    "category": "Yerbas",
+    "price": 400.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "178",
+    "name": "Caja de te La Virginia",
+    "category": "Yerbas",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "179",
+    "name": "Mate cocido caja",
+    "category": "Yerbas",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "180",
+    "name": "Café para batir",
+    "category": "Yerbas",
+    "price": 3800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "181",
+    "name": "Café Bonafide 125gr",
+    "category": "Yerbas",
+    "price": 3700.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "182",
+    "name": "Aceite Costa del sol",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "183",
+    "name": "Aceite Natura",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "184",
+    "name": "Aji Triturado Villarica",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "185",
+    "name": "Arvejas secas Inalpa",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "186",
+    "name": "Atun en aceite",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "187",
+    "name": "Atun natural",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "188",
+    "name": "Bicarbonato",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "189",
+    "name": "Caballa",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 4200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "190",
+    "name": "Choclo amarillo cremoso Inalpa",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "191",
+    "name": "Choclo grano amarillo Inalpa",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "192",
+    "name": "Coctel frutas",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "193",
+    "name": "Comino Villarica",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "194",
+    "name": "Condimento para arroz Alicante",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "195",
+    "name": "Condmineto para pizza Alicante",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "196",
+    "name": "Durazno enlatado La Colina",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "197",
+    "name": "Edulcorante Chuker",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "198",
+    "name": "Lenteja lata Inalpa",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "199",
+    "name": "Oregano Villarica",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "200",
+    "name": "Picadillo",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "201",
+    "name": "Pimenton Alicante",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "202",
+    "name": "Pimenton Villarica",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "203",
+    "name": "Pimienta blanca Villarica",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "204",
+    "name": "Provenzal Villarica",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "205",
+    "name": "Pure de tomate 530g De La Huerta",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "206",
+    "name": "Pure de tomate Huerta 250g",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "207",
+    "name": "Pure de tomate Marolio 500g",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "208",
+    "name": "Pure de tomate Mora 500g",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "209",
+    "name": "Pure de tomate triturado",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "210",
+    "name": "Pure de tomate Vigente",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "211",
+    "name": "Sal fina Celusal",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1700.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "212",
+    "name": "Sal fina Dos Anclas",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1700.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "213",
+    "name": "Sal fina Tresal",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "214",
+    "name": "Sal gruesa Celusal 1kg",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "215",
+    "name": "Sal gruesa Tresal",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "216",
+    "name": "Sal para parrila Celusal",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "217",
+    "name": "Salsa Pizza NOEL",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "218",
+    "name": "Tomate Perita Inalpa",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "219",
+    "name": "Vainilla liquida",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "220",
+    "name": "Vinagre Frau",
+    "category": "Condimentos,Aceites y Enlatados",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "221",
+    "name": "Agua mineral 1.5lts",
+    "category": "Bebidas",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "222",
+    "name": "Agua Mineral 2lt",
+    "category": "Bebidas",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "223",
+    "name": "Agua mineral chica",
+    "category": "Bebidas",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "224",
+    "name": "Baggio chico",
+    "category": "Bebidas",
+    "price": 800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "225",
+    "name": "Baggio Litro",
+    "category": "Bebidas",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "226",
+    "name": "Bidon de agua",
+    "category": "Bebidas",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "227",
+    "name": "Brahama litro",
+    "category": "Bebidas",
+    "price": 4300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "228",
+    "name": "Cepita botella 1lt",
+    "category": "Bebidas",
+    "price": 3500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "229",
+    "name": "Laton Quilmes",
+    "category": "Bebidas",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "230",
+    "name": "Cerveza Corona",
+    "category": "Bebidas",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "231",
+    "name": "Cerveza Litro",
+    "category": "Bebidas",
+    "price": 4300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "232",
+    "name": "Cerveza Patagonia",
+    "category": "Bebidas",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "233",
+    "name": "Doble Cola 3lts",
+    "category": "Bebidas",
+    "price": 2800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "234",
+    "name": "Fernandito",
+    "category": "Bebidas",
+    "price": 1600.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "235",
+    "name": "Fernet",
+    "category": "Bebidas",
+    "price": 18000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "236",
+    "name": "Frizze",
+    "category": "Bebidas",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "237",
+    "name": "Gancia",
+    "category": "Bebidas",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "238",
+    "name": "Gatorade 1,25l",
+    "category": "Bebidas",
+    "price": 4500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "239",
+    "name": "Gatorade 500ml",
+    "category": "Bebidas",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "240",
+    "name": "Gatorade 750ml",
+    "category": "Bebidas",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "241",
+    "name": "Hielo",
+    "category": "Bebidas",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "242",
+    "name": "Lata TODAS",
+    "category": "Bebidas",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "243",
+    "name": "Lata Smirnoff",
+    "category": "Bebidas",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "244",
+    "name": "Laton",
+    "category": "Bebidas",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "245",
+    "name": "Levite",
+    "category": "Bebidas",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "246",
+    "name": "Pritty Limon",
+    "category": "Bebidas",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "247",
+    "name": "Pritty Limon 3lt",
+    "category": "Bebidas",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "248",
+    "name": "Promo",
+    "category": "Bebidas",
+    "price": 23000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "249",
+    "name": "Secco 1,5 lts",
+    "category": "Bebidas",
+    "price": 1800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "250",
+    "name": "Secco 2,25 lts",
+    "category": "Bebidas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "251",
+    "name": "Secco 3lts",
+    "category": "Bebidas",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "252",
+    "name": "Sidra",
+    "category": "Bebidas",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "253",
+    "name": "Soda",
+    "category": "Bebidas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "254",
+    "name": "Speed chico",
+    "category": "Bebidas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "255",
+    "name": "Speed grande",
+    "category": "Bebidas",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "256",
+    "name": "Vodka",
+    "category": "Bebidas",
+    "price": 10000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "257",
+    "name": "Lata Imperial",
+    "category": "Bebidas",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "258",
+    "name": "Lata Golden",
+    "category": "Bebidas",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "259",
+    "name": "Lata Brahma",
+    "category": "Bebidas",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "260",
+    "name": "Vinos",
+    "category": "Bebidas",
+    "price": 0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "261",
+    "name": "Almamora",
+    "category": "Bebidas",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "262",
+    "name": "Dada",
+    "category": "Bebidas",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "263",
+    "name": "Elementos",
+    "category": "Bebidas",
+    "price": 6000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "264",
+    "name": "Estancia Mendoza",
+    "category": "Bebidas",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "265",
+    "name": "Finca las Moras",
+    "category": "Bebidas",
+    "price": 5500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "266",
+    "name": "Uvita",
+    "category": "Bebidas",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "267",
+    "name": "Vieja Mendoza",
+    "category": "Bebidas",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "268",
+    "name": "Arroz Bramador 1kg",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "269",
+    "name": "Arroz Bramador 500g",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "270",
+    "name": "Arroz Cañuelas 500g",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "271",
+    "name": "Arroz magistral",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "272",
+    "name": "Arroz San Javier 1kg",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "273",
+    "name": "Arroz San Javier 500g",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "274",
+    "name": "Arroz San Salvador 500gr",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "275",
+    "name": "Avena Quaker",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "276",
+    "name": "Avena tradicional La Española",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "277",
+    "name": "Cacao Chocolino",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "278",
+    "name": "Cacao Nesquik chico",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "279",
+    "name": "Cacao Nesquik grande",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "280",
+    "name": "Caldos",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "281",
+    "name": "Fideo Codito",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "282",
+    "name": "Fideo Dedal",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "283",
+    "name": "Fideo Moño",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1700.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "284",
+    "name": "Fideo Mostachol",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "285",
+    "name": "Fideo Municion",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "286",
+    "name": "Fideo Nido Cabello de angel",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1700.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "287",
+    "name": "Fideo Nido Spaghetti",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1700.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "288",
+    "name": "Fideo Pamperito",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "289",
+    "name": "Fideo Rigatti",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "290",
+    "name": "Fideo Spaghetti",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "291",
+    "name": "Fideo Tallarin Luchetti",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "292",
+    "name": "Fideo Tallarin Providencia",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "293",
+    "name": "Fideo Tallarin Tio Nico",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "294",
+    "name": "Fideo Tirabuzon",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "295",
+    "name": "Gelatina",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "296",
+    "name": "Grasa 1kg",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 6000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "297",
+    "name": "Grasa Ultra 500gr",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "298",
+    "name": "Grasas Ursella 500gr",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "299",
+    "name": "Harina Blancaflor 000",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "300",
+    "name": "Harina Cañuelas 000",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "301",
+    "name": "Harina Favorita 0000",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "302",
+    "name": "Harina Marimbo 000",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "303",
+    "name": "Harina Pizza Pureza",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "304",
+    "name": "Harina Pureza Leudante",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "305",
+    "name": "Harina Pureza ultra refinada 0000",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "306",
+    "name": "Lenteja La Española",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "307",
+    "name": "Maiz blanco La Española",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "308",
+    "name": "Maiz Psingallo La Española",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "309",
+    "name": "Maizena",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "310",
+    "name": "Polenta La Española",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "311",
+    "name": "Polenta NEME",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 0.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "312",
+    "name": "Polenta Presto Pronta",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "313",
+    "name": "Sopa sobre Knorr",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "314",
+    "name": "Trigo burgol La Española",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "315",
+    "name": "Azucar",
+    "category": "Trigo,Harina,Legumbres y Maiz",
+    "price": 1300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "316",
+    "name": "Chizitos (100gr suelto)",
+    "category": "Snacks",
+    "price": 1800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "317",
+    "name": "doritos 129g",
+    "category": "Snacks",
+    "price": 3800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "318",
+    "name": "doritos 40g",
+    "category": "Snacks",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "319",
+    "name": "doritos 77g",
+    "category": "Snacks",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "320",
+    "name": "Lays 134gr",
+    "category": "Snacks",
+    "price": 3800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "321",
+    "name": "Lays 20gr",
+    "category": "Snacks",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "322",
+    "name": "Lays 40gr",
+    "category": "Snacks",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "323",
+    "name": "Lays 85gr",
+    "category": "Snacks",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "324",
+    "name": "Mani Saborizado 100gr",
+    "category": "Snacks",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "325",
+    "name": "Mani salado 100gr",
+    "category": "Snacks",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "326",
+    "name": "Pizitos",
+    "category": "Snacks",
+    "price": 1200.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "327",
+    "name": "Rex",
+    "category": "Snacks",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "328",
+    "name": "twistos 100g",
+    "category": "Snacks",
+    "price": 3800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "329",
+    "name": "twistos 40g",
+    "category": "Snacks",
+    "price": 2300.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "330",
+    "name": "Hamburguesas",
+    "category": "Snacks",
+    "price": 0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "331",
+    "name": "Paty",
+    "category": "Snacks",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "332",
+    "name": "Champion paquete",
+    "category": "Snacks",
+    "price": 1800.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "333",
+    "name": "Champion caja",
+    "category": "Snacks",
+    "price": 3500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "334",
+    "name": "Cereales",
+    "category": "Snacks",
+    "price": 0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "335",
+    "name": "Azucarados 100gr",
+    "category": "Snacks",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "336",
+    "name": "Redonditos 100gr",
+    "category": "Snacks",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "337",
+    "name": "Almohaditas 100gr",
+    "category": "Snacks",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "338",
+    "name": "Tomate",
+    "category": "Frutas y Verduras",
+    "price": 4500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "339",
+    "name": "Naranja",
+    "category": "Frutas y Verduras",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "340",
+    "name": "Zanahoria",
+    "category": "Frutas y Verduras",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "341",
+    "name": "Manzana",
+    "category": "Frutas y Verduras",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "342",
+    "name": "Banana",
+    "category": "Frutas y Verduras",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "343",
+    "name": "Zapallito",
+    "category": "Frutas y Verduras",
+    "price": 2500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "344",
+    "name": "Pimiento Verde",
+    "category": "Frutas y Verduras",
+    "price": 4000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "345",
+    "name": "Pimiento Rojo",
+    "category": "Frutas y Verduras",
+    "price": 8000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "346",
+    "name": "Cebolla",
+    "category": "Frutas y Verduras",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "347",
+    "name": "Limon 2x100",
+    "category": "Frutas y Verduras",
+    "price": 100.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "348",
+    "name": "Papa",
+    "category": "Frutas y Verduras",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "349",
+    "name": "Zapallo",
+    "category": "Frutas y Verduras",
+    "price": 2000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "350",
+    "name": "Ajo",
+    "category": "Frutas y Verduras",
+    "price": 1000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "351",
+    "name": "Lechuga",
+    "category": "Frutas y Verduras",
+    "price": 3000.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "352",
+    "name": "Acelga y Espinaca",
+    "category": "Frutas y Verduras",
+    "price": 1500.0,
+    "stock": null,
+    "minStock": 0
+  },
+  {
+    "id": "353",
+    "name": "Perejil (minimo)",
+    "category": "Frutas y Verduras",
+    "price": 500.0,
+    "stock": null,
+    "minStock": 0
+  }
+]
